@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I'm Shahana
+🚀 Tech Enthusiast 
 
 <!--
 **Shahana7000/Shahana7000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
